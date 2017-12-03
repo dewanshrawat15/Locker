@@ -18,7 +18,7 @@ body{
 	width: 100vw;
 	z-index: 100;
 	height: 100vh;
-	background: url('bg.jpg') center center no-repeat;
+	background: url('bg.JPG') center center no-repeat;
 	background-size: cover;
 	transition: 750ms ease-in-out;
 }
@@ -30,7 +30,7 @@ body{
 	z-index: 100;
 	height: 100vh;
 	left: 100%;
-	background: url('bg1.jpg') center center no-repeat;
+	background: url('bg1.JPG') center center no-repeat;
 	background-size: cover;
 	transition: 750ms ease-in-out;
 }
@@ -42,7 +42,7 @@ body{
 	z-index: 100;
 	height: 100vh;
 	left: 200%;
-	background: url('bg2.jpg') center center no-repeat;
+	background: url('bg2.JPG') center center no-repeat;
 	background-size: cover;
 	transition: 750ms ease-in-out;
 }
@@ -54,7 +54,7 @@ body{
 	z-index: 100;
 	height: 100vh;
 	left: 300%;
-	background: url('bg3.jpg') center center no-repeat;
+	background: url('bg3.JPG') center center no-repeat;
 	background-size: cover;
 	transition: 750ms ease-in-out;
 }
@@ -66,7 +66,7 @@ body{
 	z-index: 100;
 	height: 100vh;
 	left: 400%;
-	background: url('bg4.jpg') center center no-repeat;
+	background: url('bg4.JPG') center center no-repeat;
 	background-size: cover;
 	transition: 750ms ease-in-out;
 }
@@ -78,7 +78,7 @@ body{
 	z-index: 100;
 	height: 100vh;
 	left: 500%;
-	background: url('bg5.jpg') center center no-repeat;
+	background: url('bg5.JPG') center center no-repeat;
 	background-size: cover;
 	transition: 750ms ease-in-out;
 }
@@ -90,7 +90,7 @@ body{
 	z-index: 100;
 	height: 100vh;
 	left: 600%;
-	background: url('bg6.jpg') center center no-repeat;
+	background: url('bg6.JPG') center center no-repeat;
 	background-size: cover;
 	transition: 750ms ease-in-out;
 }
@@ -102,7 +102,7 @@ body{
 	z-index: 100;
 	height: 100vh;
 	left: 700%;
-	background: url('bg7.jpg') center center no-repeat;
+	background: url('bg7.JPG') center center no-repeat;
 	background-size: cover;
 	transition: 750ms ease-in-out;
 }
@@ -114,7 +114,7 @@ body{
 	z-index: 100;
 	height: 100vh;
 	left: 800%;
-	background: url('bg8.jpg') center center no-repeat;
+	background: url('bg8.JPG') center center no-repeat;
 	background-size: cover;
 	transition: 750ms ease-in-out;
 }
