@@ -1,0 +1,161 @@
+
+body{
+	margin: 0;
+	transition: 750ms ease-in-out; 
+	overflow: hidden;
+}
+
+.viewer{
+	position: absolute;
+	transition: 750ms ease-in-out;
+	width: 100vw;
+	height: 100vh;
+}
+
+.screen{
+	position: absolute;
+	top: 0;
+	width: 100vw;
+	z-index: 100;
+	height: 100vh;
+	background: url('bg.jpg') center center no-repeat;
+	background-size: cover;
+	transition: 750ms ease-in-out;
+}
+
+.screen1{
+	position: absolute;
+	top: 0;
+	width: 100vw;
+	z-index: 100;
+	height: 100vh;
+	left: 100%;
+	background: url('bg1.jpg') center center no-repeat;
+	background-size: cover;
+	transition: 750ms ease-in-out;
+}
+
+.screen2{
+	position: absolute;
+	top: 0;
+	width: 100vw;
+	z-index: 100;
+	height: 100vh;
+	left: 200%;
+	background: url('bg2.jpg') center center no-repeat;
+	background-size: cover;
+	transition: 750ms ease-in-out;
+}
+
+.screen3{
+	position: absolute;
+	top: 0;
+	width: 100vw;
+	z-index: 100;
+	height: 100vh;
+	left: 300%;
+	background: url('bg3.jpg') center center no-repeat;
+	background-size: cover;
+	transition: 750ms ease-in-out;
+}
+
+.screen4{
+	position: absolute;
+	top: 0;
+	width: 100vw;
+	z-index: 100;
+	height: 100vh;
+	left: 400%;
+	background: url('bg4.jpg') center center no-repeat;
+	background-size: cover;
+	transition: 750ms ease-in-out;
+}
+
+.screen5{
+	position: absolute;
+	top: 0;
+	width: 100vw;
+	z-index: 100;
+	height: 100vh;
+	left: 500%;
+	background: url('bg5.jpg') center center no-repeat;
+	background-size: cover;
+	transition: 750ms ease-in-out;
+}
+
+.screen6{
+	position: absolute;
+	top: 0;
+	width: 100vw;
+	z-index: 100;
+	height: 100vh;
+	left: 600%;
+	background: url('bg6.jpg') center center no-repeat;
+	background-size: cover;
+	transition: 750ms ease-in-out;
+}
+
+.screen7{
+	position: absolute;
+	top: 0;
+	width: 100vw;
+	z-index: 100;
+	height: 100vh;
+	left: 700%;
+	background: url('bg7.jpg') center center no-repeat;
+	background-size: cover;
+	transition: 750ms ease-in-out;
+}
+
+.screen8{
+	position: absolute;
+	top: 0;
+	width: 100vw;
+	z-index: 100;
+	height: 100vh;
+	left: 800%;
+	background: url('bg8.jpg') center center no-repeat;
+	background-size: cover;
+	transition: 750ms ease-in-out;
+}
+
+.text{
+	position: absolute;
+	top: 45%;
+	transition: 750ms ease-in-out; 
+	left: 50%;
+	font-family: 'Ubuntu';
+	z-index: 100;
+	font-size: 64px;
+	color: #fff;
+	font-weight: normal;
+	transform: translate(-50%, -50%);
+}
+
+.line{
+	position: absolute;
+	top: 50%;
+	border: 0;
+	outline: none;
+	left: 50%;
+	transition: 750ms ease-in-out; 
+	z-index: 100;
+	width: 550px;
+	background: #fff;
+	height: 2px;
+	transform: translate(-50%, -50%);
+}
+
+.sub-text{
+	position: absolute;
+	top: 55%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	text-align: right;
+	z-index: 100;
+	transition: 750ms ease-in-out; 
+	font-size: 36px;
+	text-transform: uppercase;
+	color: #FF5722;
+	font-family: 'Baloo Bhai';
+}
